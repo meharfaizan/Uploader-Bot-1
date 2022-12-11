@@ -1,6 +1,6 @@
 numpy
 Pillow
-youtube_dl
+youtube_dl==2020.12.26
 yt-dlp
 aiohttp
 hachoir

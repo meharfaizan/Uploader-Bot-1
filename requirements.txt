@@ -1,5 +1,6 @@
 numpy
 Pillow
+youtube_dl
 yt-dlp
 aiohttp
 hachoir
